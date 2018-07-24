@@ -33,4 +33,4 @@
 
 The finished application can be viewed by visiting:
 
-<https://www.mission-trail.herokuapps.com>
+<https://www.mission-trail.herokuapp.com>
